@@ -1,8 +1,8 @@
 # Graphic_Design_and_Drawings
-Products of my playful mind
+Products of my playful mind. CreativeCommons License: 
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Ariel_2.png)
-![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset 5.png)
-![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset 6.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset%205.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset%206.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Cell_DNA_Histones.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/DNA_Sequencing.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/DNA_Translation.png)
