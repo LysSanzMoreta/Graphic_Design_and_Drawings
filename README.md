@@ -12,5 +12,5 @@ Products of my playful mind. CreativeCommons License:
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Mutation.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/PP.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Raven.png)
-![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Tree_Cover.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Tree_Cover.jpg)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Virus.png)
