@@ -1,8 +1,12 @@
 # Graphic_Design_and_Drawings
 Products of my playful mind. 
+Price list (if the work takes maximum 10 hours of work per design):
+<br/> 1 design: 500 DKK/70 Euros/ 75 $
+<br/> 2 designs : 900 DKK / 130 Euros / 140 $
+<br/> 3 designs : 1300 DKK / 190 Euros / 210 $
 
 
-<\br>CreativeCommons License: 
+<br/>CreativeCommons License: 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Ariel_2.png)
