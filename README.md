@@ -26,3 +26,5 @@ Price list (if the work takes maximum 10 hours of work per design):
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Front1.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Front2.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/FrontReflection.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/HackPPL.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/BINF_Mug_Front_Black-05.png)
