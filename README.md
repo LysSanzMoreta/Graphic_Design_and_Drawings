@@ -1,9 +1,6 @@
 # Graphic_Design_and_Drawings
 Products of my playful mind. 
-Price list (if the work takes maximum 10 hours of work per design):
-<br/> 1 design: 500 DKK/70 Euros/ 75 $
-<br/> 2 designs : 900 DKK / 130 Euros / 140 $
-<br/> 3 designs : 1300 DKK / 190 Euros / 210 $
+Hour rate: 20 euros/hour
 
 
 <br/>CreativeCommons License: 
