@@ -1,6 +1,6 @@
 # Graphic_Design_and_Drawings
 Products of my playful mind. 
-Hour rate: 20 euros/hour
+Hire me  for your project : 15 euros/hour
 
 
 <br/>CreativeCommons License: 
