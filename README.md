@@ -26,3 +26,5 @@ Hire me  for your project : 15 euros/hour
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/HackPPL.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/BINF_Mug_Front_Black-05.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/CrackedCrystalLaticce.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Futhark.jpg)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/PP_Logo.jpg)
