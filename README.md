@@ -7,6 +7,7 @@ Hire me  for your project : 15 euros/hour
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Ariel_2.png)
+![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/BB_compressed.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset%205.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Asset%206.png)
 ![alt text](https://github.com/artistworking/Graphic_Design_and_Drawings/blob/master/Cell_DNA_Histones.png)
